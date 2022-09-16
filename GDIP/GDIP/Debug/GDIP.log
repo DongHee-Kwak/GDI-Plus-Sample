@@ -1,4 +1,6 @@
-﻿  GDIP.cpp
+﻿  pch.cpp
+  CSkinButton.cpp
+  GDIP.cpp
   GDIPDlg.cpp
   코드를 생성하고 있습니다...
   GDIP.vcxproj -> C:\Users\4\Desktop\A\GDI-Plus-Sample\GDIP\Debug\GDIP.exe
